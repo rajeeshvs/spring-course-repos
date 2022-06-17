@@ -1,0 +1,4 @@
+D:\tech\micro\demos\Circuit-Breaker\spring-hystrix-student-service\src\main\java\com\example\howtodoinjava\springhystrixstudentservice\domain\Student.java
+D:\tech\micro\demos\Circuit-Breaker\spring-hystrix-student-service\src\main\java\com\example\howtodoinjava\springhystrixstudentservice\util\SpringEurekaClientStudentServiceInfoContributor.java
+D:\tech\micro\demos\Circuit-Breaker\spring-hystrix-student-service\src\main\java\com\example\howtodoinjava\springhystrixstudentservice\SpringHystrixStudentServiceApplication.java
+D:\tech\micro\demos\Circuit-Breaker\spring-hystrix-student-service\src\main\java\com\example\howtodoinjava\springhystrixstudentservice\controller\StudentServiceController.java
